@@ -16,10 +16,10 @@
         }
     ],
     "require": {
-        "roygoldman/drupal-wrapper": "~8.5"
+        "roygoldman/drupal-wrapper": "8.5.5"
     },
     "require-dev": {
-        "webflo/drupal-core-require-dev": "~8.5"
+        "webflo/drupal-core-require-dev": "8.5.5"
     },
     "minimum-stability": "dev"
 }
